@@ -1,0 +1,3399 @@
+{
+  "Alabama": {
+    "state": "Alabama",
+    "cumulativeArrivals": "145",
+    "fiscalArrivals": "145",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Burma": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iran": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "61",
+        "fiscalArrivals": "61"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      }
+    }
+  },
+  "Alaska": {
+    "state": "Alaska",
+    "cumulativeArrivals": "88",
+    "fiscalArrivals": "88",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Burma": {
+        "cumulativeArrivals": "26",
+        "fiscalArrivals": "26"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "36",
+        "fiscalArrivals": "36"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      }
+    }
+  },
+  "Arizona": {
+    "state": "Arizona",
+    "cumulativeArrivals": "2,234",
+    "fiscalArrivals": "2,234",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "391",
+        "fiscalArrivals": "391"
+      },
+      "Burma": {
+        "cumulativeArrivals": "312",
+        "fiscalArrivals": "312"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Chad": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "China": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "42",
+        "fiscalArrivals": "42"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "133",
+        "fiscalArrivals": "133"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "90",
+        "fiscalArrivals": "90"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "India": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iran": {
+        "cumulativeArrivals": "81",
+        "fiscalArrivals": "81"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "637",
+        "fiscalArrivals": "637"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Kazakhstan": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "335",
+        "fiscalArrivals": "335"
+      },
+      "South Africa": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "80",
+        "fiscalArrivals": "80"
+      },
+      "Togo": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "54",
+        "fiscalArrivals": "54"
+      }
+    }
+  },
+  "Arkansas": {
+    "state": "Arkansas",
+    "cumulativeArrivals": "10",
+    "fiscalArrivals": "10",
+    "totalByOriginCountry": {
+      "Burma": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Syria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "California": {
+    "state": "California",
+    "cumulativeArrivals": "5,173",
+    "fiscalArrivals": "5,173",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "112",
+        "fiscalArrivals": "112"
+      },
+      "Armenia": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "108",
+        "fiscalArrivals": "108"
+      },
+      "Burma": {
+        "cumulativeArrivals": "414",
+        "fiscalArrivals": "414"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Chad": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "China": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "68",
+        "fiscalArrivals": "68"
+      },
+      "Egypt": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "95",
+        "fiscalArrivals": "95"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "42",
+        "fiscalArrivals": "42"
+      },
+      "Gaza Strip": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Georgia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Iran": {
+        "cumulativeArrivals": "745",
+        "fiscalArrivals": "745"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "2,898",
+        "fiscalArrivals": "2,898"
+      },
+      "Kazakhstan": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Kenya": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Laos": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "75",
+        "fiscalArrivals": "75"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Nigeria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "23",
+        "fiscalArrivals": "23"
+      },
+      "Russia": {
+        "cumulativeArrivals": "48",
+        "fiscalArrivals": "48"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "237",
+        "fiscalArrivals": "237"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Syria": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Uganda": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "80",
+        "fiscalArrivals": "80"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "45",
+        "fiscalArrivals": "45"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Zimbabwe": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      }
+    }
+  },
+  "Colorado": {
+    "state": "Colorado",
+    "cumulativeArrivals": "1,458",
+    "fiscalArrivals": "1,458",
+    "totalByOriginCountry": {
+      "Belarus": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "540",
+        "fiscalArrivals": "540"
+      },
+      "Burma": {
+        "cumulativeArrivals": "382",
+        "fiscalArrivals": "382"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Chad": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "China": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "63",
+        "fiscalArrivals": "63"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "40",
+        "fiscalArrivals": "40"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "32",
+        "fiscalArrivals": "32"
+      },
+      "Iran": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "148",
+        "fiscalArrivals": "148"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Russia": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Senegal": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "118",
+        "fiscalArrivals": "118"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      },
+      "Tibet": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      }
+    }
+  },
+  "Connecticut": {
+    "state": "Connecticut",
+    "cumulativeArrivals": "434",
+    "fiscalArrivals": "434",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "62",
+        "fiscalArrivals": "62"
+      },
+      "Burma": {
+        "cumulativeArrivals": "60",
+        "fiscalArrivals": "60"
+      },
+      "Cameroon": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "48",
+        "fiscalArrivals": "48"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "52",
+        "fiscalArrivals": "52"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iran": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "103",
+        "fiscalArrivals": "103"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Morocco": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Russia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "32",
+        "fiscalArrivals": "32"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Tunisia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "District of Columbia": {
+    "state": "District of Columbia",
+    "cumulativeArrivals": "14",
+    "fiscalArrivals": "14",
+    "totalByOriginCountry": {
+      "Congo": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      }
+    }
+  },
+  "Florida": {
+    "state": "Florida",
+    "cumulativeArrivals": "2,244",
+    "fiscalArrivals": "2,244",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Azerbaijan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "101",
+        "fiscalArrivals": "101"
+      },
+      "Burma": {
+        "cumulativeArrivals": "433",
+        "fiscalArrivals": "433"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "28",
+        "fiscalArrivals": "28"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "1,127",
+        "fiscalArrivals": "1,127"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "38",
+        "fiscalArrivals": "38"
+      },
+      "Egypt": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "43",
+        "fiscalArrivals": "43"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "32",
+        "fiscalArrivals": "32"
+      },
+      "Iran": {
+        "cumulativeArrivals": "31",
+        "fiscalArrivals": "31"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "328",
+        "fiscalArrivals": "328"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Kyrgyzstan": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Russia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "20",
+        "fiscalArrivals": "20"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Tanzania": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Venezuela": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      }
+    }
+  },
+  "Georgia": {
+    "state": "Georgia",
+    "cumulativeArrivals": "2,520",
+    "fiscalArrivals": "2,520",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "44",
+        "fiscalArrivals": "44"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "907",
+        "fiscalArrivals": "907"
+      },
+      "Burma": {
+        "cumulativeArrivals": "643",
+        "fiscalArrivals": "643"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "China": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "77",
+        "fiscalArrivals": "77"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "68",
+        "fiscalArrivals": "68"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "37",
+        "fiscalArrivals": "37"
+      },
+      "India": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iran": {
+        "cumulativeArrivals": "68",
+        "fiscalArrivals": "68"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "179",
+        "fiscalArrivals": "179"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "29",
+        "fiscalArrivals": "29"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Russia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "254",
+        "fiscalArrivals": "254"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "91",
+        "fiscalArrivals": "91"
+      },
+      "Uganda": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Zimbabwe": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Hawaii": {
+    "state": "Hawaii",
+    "cumulativeArrivals": "1",
+    "fiscalArrivals": "1",
+    "totalByOriginCountry": {
+      "Burma": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Idaho": {
+    "state": "Idaho",
+    "cumulativeArrivals": "817",
+    "fiscalArrivals": "817",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "159",
+        "fiscalArrivals": "159"
+      },
+      "Burma": {
+        "cumulativeArrivals": "189",
+        "fiscalArrivals": "189"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Congo": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "127",
+        "fiscalArrivals": "127"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "44",
+        "fiscalArrivals": "44"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Iran": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "89",
+        "fiscalArrivals": "89"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "81",
+        "fiscalArrivals": "81"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Syria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      }
+    }
+  },
+  "Illinois": {
+    "state": "Illinois",
+    "cumulativeArrivals": "2,082",
+    "fiscalArrivals": "2,082",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "22",
+        "fiscalArrivals": "22"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "426",
+        "fiscalArrivals": "426"
+      },
+      "Burma": {
+        "cumulativeArrivals": "599",
+        "fiscalArrivals": "599"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Cameroon": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Congo": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "22",
+        "fiscalArrivals": "22"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "71",
+        "fiscalArrivals": "71"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "22",
+        "fiscalArrivals": "22"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "38",
+        "fiscalArrivals": "38"
+      },
+      "Iran": {
+        "cumulativeArrivals": "46",
+        "fiscalArrivals": "46"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "604",
+        "fiscalArrivals": "604"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Jordan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "20",
+        "fiscalArrivals": "20"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Republic of South Sudan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Russia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Senegal": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "103",
+        "fiscalArrivals": "103"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Syria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Togo": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      }
+    }
+  },
+  "Indiana": {
+    "state": "Indiana",
+    "cumulativeArrivals": "1,197",
+    "fiscalArrivals": "1,197",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "40",
+        "fiscalArrivals": "40"
+      },
+      "Burma": {
+        "cumulativeArrivals": "993",
+        "fiscalArrivals": "993"
+      },
+      "China": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iran": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "36",
+        "fiscalArrivals": "36"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "35",
+        "fiscalArrivals": "35"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "25",
+        "fiscalArrivals": "25"
+      },
+      "Syria": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      }
+    }
+  },
+  "Iowa": {
+    "state": "Iowa",
+    "cumulativeArrivals": "431",
+    "fiscalArrivals": "431",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "89",
+        "fiscalArrivals": "89"
+      },
+      "Burma": {
+        "cumulativeArrivals": "240",
+        "fiscalArrivals": "240"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "46",
+        "fiscalArrivals": "46"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Togo": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      }
+    }
+  },
+  "Kansas": {
+    "state": "Kansas",
+    "cumulativeArrivals": "384",
+    "fiscalArrivals": "384",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "111",
+        "fiscalArrivals": "111"
+      },
+      "Burma": {
+        "cumulativeArrivals": "181",
+        "fiscalArrivals": "181"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "China": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Iran": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      }
+    }
+  },
+  "Kentucky": {
+    "state": "Kentucky",
+    "cumulativeArrivals": "1,452",
+    "fiscalArrivals": "1,452",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Azerbaijan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "404",
+        "fiscalArrivals": "404"
+      },
+      "Burma": {
+        "cumulativeArrivals": "334",
+        "fiscalArrivals": "334"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "27",
+        "fiscalArrivals": "27"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "52",
+        "fiscalArrivals": "52"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "173",
+        "fiscalArrivals": "173"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Gabon": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iran": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "194",
+        "fiscalArrivals": "194"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "132",
+        "fiscalArrivals": "132"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "47",
+        "fiscalArrivals": "47"
+      }
+    }
+  },
+  "Louisiana": {
+    "state": "Louisiana",
+    "cumulativeArrivals": "187",
+    "fiscalArrivals": "187",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Burma": {
+        "cumulativeArrivals": "102",
+        "fiscalArrivals": "102"
+      },
+      "Congo": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "31",
+        "fiscalArrivals": "31"
+      },
+      "Kuwait": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      }
+    }
+  },
+  "Maine": {
+    "state": "Maine",
+    "cumulativeArrivals": "203",
+    "fiscalArrivals": "203",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Burma": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iran": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "78",
+        "fiscalArrivals": "78"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "103",
+        "fiscalArrivals": "103"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      }
+    }
+  },
+  "Maryland": {
+    "state": "Maryland",
+    "cumulativeArrivals": "1,239",
+    "fiscalArrivals": "1,239",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "466",
+        "fiscalArrivals": "466"
+      },
+      "Burma": {
+        "cumulativeArrivals": "353",
+        "fiscalArrivals": "353"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "China": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Congo": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "97",
+        "fiscalArrivals": "97"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "25",
+        "fiscalArrivals": "25"
+      },
+      "Iran": {
+        "cumulativeArrivals": "45",
+        "fiscalArrivals": "45"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "145",
+        "fiscalArrivals": "145"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Russia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "27",
+        "fiscalArrivals": "27"
+      },
+      "Tibet": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      }
+    }
+  },
+  "Massachusetts": {
+    "state": "Massachusetts",
+    "cumulativeArrivals": "1,541",
+    "fiscalArrivals": "1,541",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "506",
+        "fiscalArrivals": "506"
+      },
+      "Burma": {
+        "cumulativeArrivals": "143",
+        "fiscalArrivals": "143"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Chad": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Congo": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "69",
+        "fiscalArrivals": "69"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "59",
+        "fiscalArrivals": "59"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Gambia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Iran": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "401",
+        "fiscalArrivals": "401"
+      },
+      "Jordan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Kyrgyzstan": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Morocco": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Russia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "206",
+        "fiscalArrivals": "206"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "20",
+        "fiscalArrivals": "20"
+      },
+      "Uganda": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      }
+    }
+  },
+  "Michigan": {
+    "state": "Michigan",
+    "cumulativeArrivals": "3,594",
+    "fiscalArrivals": "3,594",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "317",
+        "fiscalArrivals": "317"
+      },
+      "Burma": {
+        "cumulativeArrivals": "539",
+        "fiscalArrivals": "539"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Congo": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "74",
+        "fiscalArrivals": "74"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iran": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "2,484",
+        "fiscalArrivals": "2,484"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Saudi Arabia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "98",
+        "fiscalArrivals": "98"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Syria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      }
+    }
+  },
+  "Minnesota": {
+    "state": "Minnesota",
+    "cumulativeArrivals": "1,738",
+    "fiscalArrivals": "1,738",
+    "totalByOriginCountry": {
+      "Belarus": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "191",
+        "fiscalArrivals": "191"
+      },
+      "Burma": {
+        "cumulativeArrivals": "691",
+        "fiscalArrivals": "691"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "95",
+        "fiscalArrivals": "95"
+      },
+      "Iran": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "81",
+        "fiscalArrivals": "81"
+      },
+      "Laos": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "573",
+        "fiscalArrivals": "573"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      }
+    }
+  },
+  "Mississippi": {
+    "state": "Mississippi",
+    "cumulativeArrivals": "8",
+    "fiscalArrivals": "8",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Burma": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Missouri": {
+    "state": "Missouri",
+    "cumulativeArrivals": "1,065",
+    "fiscalArrivals": "1,065",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "271",
+        "fiscalArrivals": "271"
+      },
+      "Burma": {
+        "cumulativeArrivals": "245",
+        "fiscalArrivals": "245"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "23",
+        "fiscalArrivals": "23"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "28",
+        "fiscalArrivals": "28"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "36",
+        "fiscalArrivals": "36"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "31",
+        "fiscalArrivals": "31"
+      },
+      "Iran": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "170",
+        "fiscalArrivals": "170"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "202",
+        "fiscalArrivals": "202"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "29",
+        "fiscalArrivals": "29"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      }
+    }
+  },
+  "Montana": {
+    "state": "Montana",
+    "cumulativeArrivals": "1",
+    "fiscalArrivals": "1",
+    "totalByOriginCountry": {
+      "Iraq": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Nebraska": {
+    "state": "Nebraska",
+    "cumulativeArrivals": "764",
+    "fiscalArrivals": "764",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "269",
+        "fiscalArrivals": "269"
+      },
+      "Burma": {
+        "cumulativeArrivals": "398",
+        "fiscalArrivals": "398"
+      },
+      "Congo": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Iran": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "55",
+        "fiscalArrivals": "55"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      }
+    }
+  },
+  "Nevada": {
+    "state": "Nevada",
+    "cumulativeArrivals": "470",
+    "fiscalArrivals": "470",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "52",
+        "fiscalArrivals": "52"
+      },
+      "Burma": {
+        "cumulativeArrivals": "59",
+        "fiscalArrivals": "59"
+      },
+      "China": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "124",
+        "fiscalArrivals": "124"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "35",
+        "fiscalArrivals": "35"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "35",
+        "fiscalArrivals": "35"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iran": {
+        "cumulativeArrivals": "50",
+        "fiscalArrivals": "50"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "67",
+        "fiscalArrivals": "67"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "34",
+        "fiscalArrivals": "34"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Togo": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      }
+    }
+  },
+  "New Hampshire": {
+    "state": "New Hampshire",
+    "cumulativeArrivals": "363",
+    "fiscalArrivals": "363",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "241",
+        "fiscalArrivals": "241"
+      },
+      "Burma": {
+        "cumulativeArrivals": "31",
+        "fiscalArrivals": "31"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "43",
+        "fiscalArrivals": "43"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "32",
+        "fiscalArrivals": "32"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      }
+    }
+  },
+  "New Jersey": {
+    "state": "New Jersey",
+    "cumulativeArrivals": "279",
+    "fiscalArrivals": "279",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Burma": {
+        "cumulativeArrivals": "40",
+        "fiscalArrivals": "40"
+      },
+      "China": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "107",
+        "fiscalArrivals": "107"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Iran": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "62",
+        "fiscalArrivals": "62"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Russia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "28",
+        "fiscalArrivals": "28"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      }
+    }
+  },
+  "New Mexico": {
+    "state": "New Mexico",
+    "cumulativeArrivals": "189",
+    "fiscalArrivals": "189",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Burma": {
+        "cumulativeArrivals": "53",
+        "fiscalArrivals": "53"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "32",
+        "fiscalArrivals": "32"
+      },
+      "Iran": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "40",
+        "fiscalArrivals": "40"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      }
+    }
+  },
+  "New York": {
+    "state": "New York",
+    "cumulativeArrivals": "3,528",
+    "fiscalArrivals": "3,528",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "27",
+        "fiscalArrivals": "27"
+      },
+      "Azerbaijan": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "1,209",
+        "fiscalArrivals": "1,209"
+      },
+      "Burma": {
+        "cumulativeArrivals": "1,074",
+        "fiscalArrivals": "1,074"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Cameroon": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "China": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Congo": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "31",
+        "fiscalArrivals": "31"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "63",
+        "fiscalArrivals": "63"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "68",
+        "fiscalArrivals": "68"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Iran": {
+        "cumulativeArrivals": "41",
+        "fiscalArrivals": "41"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "311",
+        "fiscalArrivals": "311"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Niger": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      },
+      "Russia": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Sierra Leone": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "408",
+        "fiscalArrivals": "408"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "77",
+        "fiscalArrivals": "77"
+      },
+      "Syria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "44",
+        "fiscalArrivals": "44"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      }
+    }
+  },
+  "North Carolina": {
+    "state": "North Carolina",
+    "cumulativeArrivals": "2,110",
+    "fiscalArrivals": "2,110",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "27",
+        "fiscalArrivals": "27"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "640",
+        "fiscalArrivals": "640"
+      },
+      "Burma": {
+        "cumulativeArrivals": "792",
+        "fiscalArrivals": "792"
+      },
+      "Cambodia": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Congo": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "59",
+        "fiscalArrivals": "59"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "76",
+        "fiscalArrivals": "76"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "46",
+        "fiscalArrivals": "46"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Iran": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "149",
+        "fiscalArrivals": "149"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Libya": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Russia": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "93",
+        "fiscalArrivals": "93"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "49",
+        "fiscalArrivals": "49"
+      },
+      "Togo": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      }
+    }
+  },
+  "North Dakota": {
+    "state": "North Dakota",
+    "cumulativeArrivals": "555",
+    "fiscalArrivals": "555",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "429",
+        "fiscalArrivals": "429"
+      },
+      "Burma": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "27",
+        "fiscalArrivals": "27"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "54",
+        "fiscalArrivals": "54"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "26",
+        "fiscalArrivals": "26"
+      }
+    }
+  },
+  "Ohio": {
+    "state": "Ohio",
+    "cumulativeArrivals": "2,245",
+    "fiscalArrivals": "2,245",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "1,307",
+        "fiscalArrivals": "1,307"
+      },
+      "Burma": {
+        "cumulativeArrivals": "209",
+        "fiscalArrivals": "209"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Congo": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "66",
+        "fiscalArrivals": "66"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "70",
+        "fiscalArrivals": "70"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "35",
+        "fiscalArrivals": "35"
+      },
+      "Iran": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "218",
+        "fiscalArrivals": "218"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Russia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "200",
+        "fiscalArrivals": "200"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "43",
+        "fiscalArrivals": "43"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      }
+    }
+  },
+  "Oklahoma": {
+    "state": "Oklahoma",
+    "cumulativeArrivals": "299",
+    "fiscalArrivals": "299",
+    "totalByOriginCountry": {
+      "Burma": {
+        "cumulativeArrivals": "258",
+        "fiscalArrivals": "258"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Iran": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "26",
+        "fiscalArrivals": "26"
+      },
+      "Kyrgyzstan": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      }
+    }
+  },
+  "Oregon": {
+    "state": "Oregon",
+    "cumulativeArrivals": "695",
+    "fiscalArrivals": "695",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "21",
+        "fiscalArrivals": "21"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "139",
+        "fiscalArrivals": "139"
+      },
+      "Burma": {
+        "cumulativeArrivals": "127",
+        "fiscalArrivals": "127"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Congo": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Estonia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Georgia": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iran": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "107",
+        "fiscalArrivals": "107"
+      },
+      "Kyrgyzstan": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Russia": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "110",
+        "fiscalArrivals": "110"
+      },
+      "Thailand": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Uganda": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "44",
+        "fiscalArrivals": "44"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      }
+    }
+  },
+  "Pennsylvania": {
+    "state": "Pennsylvania",
+    "cumulativeArrivals": "2,809",
+    "fiscalArrivals": "2,809",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "2,172",
+        "fiscalArrivals": "2,172"
+      },
+      "Burma": {
+        "cumulativeArrivals": "255",
+        "fiscalArrivals": "255"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Congo": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "32",
+        "fiscalArrivals": "32"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Iran": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "167",
+        "fiscalArrivals": "167"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "13",
+        "fiscalArrivals": "13"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Senegal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "23",
+        "fiscalArrivals": "23"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "41",
+        "fiscalArrivals": "41"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      }
+    }
+  },
+  "Rhode Island": {
+    "state": "Rhode Island",
+    "cumulativeArrivals": "130",
+    "fiscalArrivals": "130",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "58",
+        "fiscalArrivals": "58"
+      },
+      "Burma": {
+        "cumulativeArrivals": "53",
+        "fiscalArrivals": "53"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Iran": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      }
+    }
+  },
+  "South Carolina": {
+    "state": "South Carolina",
+    "cumulativeArrivals": "135",
+    "fiscalArrivals": "135",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "27",
+        "fiscalArrivals": "27"
+      },
+      "Burma": {
+        "cumulativeArrivals": "76",
+        "fiscalArrivals": "76"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Iran": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "18",
+        "fiscalArrivals": "18"
+      },
+      "Laos": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      }
+    }
+  },
+  "South Dakota": {
+    "state": "South Dakota",
+    "cumulativeArrivals": "646",
+    "fiscalArrivals": "646",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "361",
+        "fiscalArrivals": "361"
+      },
+      "Burma": {
+        "cumulativeArrivals": "181",
+        "fiscalArrivals": "181"
+      },
+      "Cambodia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "43",
+        "fiscalArrivals": "43"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      }
+    }
+  },
+  "Tennessee": {
+    "state": "Tennessee",
+    "cumulativeArrivals": "1,236",
+    "fiscalArrivals": "1,236",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "254",
+        "fiscalArrivals": "254"
+      },
+      "Burma": {
+        "cumulativeArrivals": "344",
+        "fiscalArrivals": "344"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "33",
+        "fiscalArrivals": "33"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Iran": {
+        "cumulativeArrivals": "45",
+        "fiscalArrivals": "45"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "206",
+        "fiscalArrivals": "206"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "223",
+        "fiscalArrivals": "223"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "30",
+        "fiscalArrivals": "30"
+      },
+      "Syria": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Texas": {
+    "state": "Texas",
+    "cumulativeArrivals": "5,923",
+    "fiscalArrivals": "5,923",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "1,278",
+        "fiscalArrivals": "1,278"
+      },
+      "Burma": {
+        "cumulativeArrivals": "2,156",
+        "fiscalArrivals": "2,156"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "50",
+        "fiscalArrivals": "50"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Congo": {
+        "cumulativeArrivals": "20",
+        "fiscalArrivals": "20"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "102",
+        "fiscalArrivals": "102"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "337",
+        "fiscalArrivals": "337"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "105",
+        "fiscalArrivals": "105"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "63",
+        "fiscalArrivals": "63"
+      },
+      "Iran": {
+        "cumulativeArrivals": "173",
+        "fiscalArrivals": "173"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "964",
+        "fiscalArrivals": "964"
+      },
+      "Ivory Coast": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Jordan": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Kenya": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Kyrgyzstan": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "20",
+        "fiscalArrivals": "20"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "25",
+        "fiscalArrivals": "25"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "456",
+        "fiscalArrivals": "456"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "92",
+        "fiscalArrivals": "92"
+      },
+      "Syria": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Togo": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "22",
+        "fiscalArrivals": "22"
+      }
+    }
+  },
+  "Utah": {
+    "state": "Utah",
+    "cumulativeArrivals": "942",
+    "fiscalArrivals": "942",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "259",
+        "fiscalArrivals": "259"
+      },
+      "Burma": {
+        "cumulativeArrivals": "129",
+        "fiscalArrivals": "129"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Central African Republic": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Congo": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "24",
+        "fiscalArrivals": "24"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "40",
+        "fiscalArrivals": "40"
+      },
+      "Iran": {
+        "cumulativeArrivals": "47",
+        "fiscalArrivals": "47"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "160",
+        "fiscalArrivals": "160"
+      },
+      "Korea, North": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Nigeria": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Russia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "174",
+        "fiscalArrivals": "174"
+      },
+      "Sri Lanka (Ceylon)": {
+        "cumulativeArrivals": "11",
+        "fiscalArrivals": "11"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "55",
+        "fiscalArrivals": "55"
+      }
+    }
+  },
+  "Vermont": {
+    "state": "Vermont",
+    "cumulativeArrivals": "350",
+    "fiscalArrivals": "350",
+    "totalByOriginCountry": {
+      "Bhutan": {
+        "cumulativeArrivals": "297",
+        "fiscalArrivals": "297"
+      },
+      "Burma": {
+        "cumulativeArrivals": "42",
+        "fiscalArrivals": "42"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Virginia": {
+    "state": "Virginia",
+    "cumulativeArrivals": "1,341",
+    "fiscalArrivals": "1,341",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "17",
+        "fiscalArrivals": "17"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "458",
+        "fiscalArrivals": "458"
+      },
+      "Burma": {
+        "cumulativeArrivals": "91",
+        "fiscalArrivals": "91"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "26",
+        "fiscalArrivals": "26"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "31",
+        "fiscalArrivals": "31"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "55",
+        "fiscalArrivals": "55"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Iran": {
+        "cumulativeArrivals": "80",
+        "fiscalArrivals": "80"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "400",
+        "fiscalArrivals": "400"
+      },
+      "Kenya": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "42",
+        "fiscalArrivals": "42"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Russia": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "43",
+        "fiscalArrivals": "43"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "49",
+        "fiscalArrivals": "49"
+      },
+      "Syria": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Uzbekistan": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      }
+    }
+  },
+  "Washington": {
+    "state": "Washington",
+    "cumulativeArrivals": "2,165",
+    "fiscalArrivals": "2,165",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "33",
+        "fiscalArrivals": "33"
+      },
+      "Belarus": {
+        "cumulativeArrivals": "16",
+        "fiscalArrivals": "16"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "427",
+        "fiscalArrivals": "427"
+      },
+      "Burma": {
+        "cumulativeArrivals": "481",
+        "fiscalArrivals": "481"
+      },
+      "Burundi": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Colombia": {
+        "cumulativeArrivals": "6",
+        "fiscalArrivals": "6"
+      },
+      "Congo": {
+        "cumulativeArrivals": "3",
+        "fiscalArrivals": "3"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "23",
+        "fiscalArrivals": "23"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "55",
+        "fiscalArrivals": "55"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "75",
+        "fiscalArrivals": "75"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "43",
+        "fiscalArrivals": "43"
+      },
+      "Iran": {
+        "cumulativeArrivals": "110",
+        "fiscalArrivals": "110"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "296",
+        "fiscalArrivals": "296"
+      },
+      "Kyrgyzstan": {
+        "cumulativeArrivals": "15",
+        "fiscalArrivals": "15"
+      },
+      "Liberia": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Moldova": {
+        "cumulativeArrivals": "104",
+        "fiscalArrivals": "104"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Pakistan": {
+        "cumulativeArrivals": "19",
+        "fiscalArrivals": "19"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "7",
+        "fiscalArrivals": "7"
+      },
+      "Russia": {
+        "cumulativeArrivals": "61",
+        "fiscalArrivals": "61"
+      },
+      "Rwanda": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "214",
+        "fiscalArrivals": "214"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "36",
+        "fiscalArrivals": "36"
+      },
+      "Syria": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Togo": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Ukraine": {
+        "cumulativeArrivals": "115",
+        "fiscalArrivals": "115"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      }
+    }
+  },
+  "West Virginia": {
+    "state": "West Virginia",
+    "cumulativeArrivals": "19",
+    "fiscalArrivals": "19",
+    "totalByOriginCountry": {
+      "Burma": {
+        "cumulativeArrivals": "10",
+        "fiscalArrivals": "10"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      }
+    }
+  },
+  "Wisconsin": {
+    "state": "Wisconsin",
+    "cumulativeArrivals": "785",
+    "fiscalArrivals": "785",
+    "totalByOriginCountry": {
+      "Afghanistan": {
+        "cumulativeArrivals": "14",
+        "fiscalArrivals": "14"
+      },
+      "Bhutan": {
+        "cumulativeArrivals": "56",
+        "fiscalArrivals": "56"
+      },
+      "Burma": {
+        "cumulativeArrivals": "396",
+        "fiscalArrivals": "396"
+      },
+      "China": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Cuba": {
+        "cumulativeArrivals": "2",
+        "fiscalArrivals": "2"
+      },
+      "Dem. Rep. Congo": {
+        "cumulativeArrivals": "23",
+        "fiscalArrivals": "23"
+      },
+      "Eritrea": {
+        "cumulativeArrivals": "26",
+        "fiscalArrivals": "26"
+      },
+      "Ethiopia": {
+        "cumulativeArrivals": "12",
+        "fiscalArrivals": "12"
+      },
+      "Iraq": {
+        "cumulativeArrivals": "129",
+        "fiscalArrivals": "129"
+      },
+      "Laos": {
+        "cumulativeArrivals": "5",
+        "fiscalArrivals": "5"
+      },
+      "Nepal": {
+        "cumulativeArrivals": "1",
+        "fiscalArrivals": "1"
+      },
+      "Palestine": {
+        "cumulativeArrivals": "8",
+        "fiscalArrivals": "8"
+      },
+      "Somalia": {
+        "cumulativeArrivals": "95",
+        "fiscalArrivals": "95"
+      },
+      "Sudan": {
+        "cumulativeArrivals": "9",
+        "fiscalArrivals": "9"
+      },
+      "Vietnam": {
+        "cumulativeArrivals": "4",
+        "fiscalArrivals": "4"
+      }
+    }
+  },
+  "Total": {
+    "state": "Total",
+    "cumulativeArrivals": "58,238",
+    "fiscalArrivals": "58,238",
+    "totalByOriginCountry": {}
+  }
+}
