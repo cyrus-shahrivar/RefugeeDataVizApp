@@ -1,24 +1,13 @@
-# Refugee Data Visualizer
+# The Refugee Data Visualizer Project
 
 - Creator: Cyrus Shahrivar
-- Version 2.0 (August 2021)
-- https://refugee-data-viz.herokuapp.com/
+- Version 2.0.0 (August 2021)
+- https://cyrus-shahrivar.github.io/RefugeeDataVizApp/
 
-## Current MVP TODOs
-- [X] Move over github link
-- [X] Add space for social share
-- [X] Remove old code
-- [X] Add copyright
-- [X] Add "Why" create-react-app
-- [X] Add "Why" migration from D3 to Highcharts
-- [X] Add adding country selector for small screens
-- [X] Add size not supported message
-- [X] Fix responsive sizing
-- [X] Hover pointer style for clickable things (years, countries)
-- [X] Fix responsive for charts, esp. small screen below about 600
-- [ ] Squash commits into one following conventional commits
+<img src="./docs/images/desktop-screenshot.png" alt="Screenshot of The Refugee Data Visualizer Application at desktop size" width="650px" />
 
 ## Follow-On TODOs
+- [ ] Fix bugs with different same country / different naming
 - [ ] CSS markup/naming that makes sense
 - [ ] Add tests for components using RTL and regular JEST unit test where needed
 - [ ] Organize and explain data usage/transformations
