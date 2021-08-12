@@ -44,3 +44,7 @@ I chose to leverage `create-react-app` to establish the toolchain for this proje
 ## References
 - [Original Project README & Documentation - 2016](./docs/original-project.md)
 - [create-react-app Boilerplate Documentation](./docs/create-react-app-boilderplate.md)
+
+## License
+- Highsoft has granted me usage of their software via email confirmation for a "Highsoft Non-Commercial License" on the following products:
+  - Highcharts|Highcharts Maps (Granted: 8/12/2021)
