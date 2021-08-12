@@ -4,7 +4,7 @@
 - Version 2.0.0 (August 2021)
 - https://cyrus-shahrivar.github.io/RefugeeDataVizApp/
 
-<img src="./docs/images/desktop-screenshot.png" alt="Screenshot of The Refugee Data Visualizer Application at desktop size" width="650px" />
+<img src="./docs/images/desktop-screenshot.png" alt="Screenshot of The Refugee Data Visualizer Application at desktop size" width="100%" />
 
 ## Purpose
 This is a data visualization application that enables the public to explore refugee resettlement patterns for various groups arriving in the US for the recent past. The intent was to enable more informed dialogue in a time of heated, opinionated debate about refugees and immigration.
