@@ -1,80 +1,43 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>THE REFUGEE DATA VISUALIZER PROJECT</title>
-    <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="/css/style.css">
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Refugee Data Viz</title>
   </head>
   <body>
-    <!-- facebook plugin -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.7";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-    <div class="mobile">
-      <p>Please expand browser window or view on desktop for the intended experience.</p>
-      <div>
-        <a href="mailto:?subject=Refugee_Data_Visualizer&body=https://refugee-data-viz.herokuapp.com/">Email reminder to view later</a>
-      </div>
-    </div>
-    <header>
-      <h1 id="title">THE REFUGEE DATA VISUALIZER PROJECT</h1>
-    </header>
-    <div class="overall-container">
-      <div class="left-container">
-        <div class="countries-container"></div>
-      </div>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
 
-      <div class="middle-container">
-        <div class="map-container"></div>
-        <div class="chart-container"></div>
-      </div>
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
 
-      <div class="right-container">
-        <div class="news-stats-container">
-          <ul id="years-list">
-          </ul>
-        </div>
-        <div class="flash-message">
-          <p>
-            GROUP INFO FOR CHOSEN YEAR DOES NOT EXIST.
-          </p>
-          <p>
-            CHOOSE ANOTHER YEAR OR ANOTHER GROUP TO DISPLAY.
-          </p>
-        </div>
-        <div class="top-ten">
-          <h5 style="text-align: center; padding-right: 55px;">TOP TEN GROUPS THIS YEAR</h3>
-          <ol>
-
-          </ol>
-        </div>
-      </div>
-    </div>
-    <footer>
-      <div class="twitter">
-        <a id="twitter-share" href="https://twitter.com/share" class="twitter-share-button" data-show-count="false" style="position: fixed;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-      <div class="fb-share-button" data-href="https://refugee-data-viz.herokuapp.com/" data-layout="button" data-size="small" data-mobile-iframe="true" style="position: fixed;"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Frefugee-data-viz.herokuapp.com%2F&amp;src=sdkpreparse">Share</a></div>
-      <div class="github">
-        <a href="https://github.com/cyrus-shahrivar/refugeeDataViz" target="_blank"><img src="images/GitHub-Mark-120px-plus.png" alt="github icon taking you to code repository" id="octocat"/></a>
-      </div>
-      <div class="sources">
-        <p>
-          Source: <a href="http://www.acf.hhs.gov/programs/orr/resource/refugee-arrival-data" target="_blank">Office of Refugee Resettlement, USDHHS</a>, July 2016
-        </p>
-      </div>
-    </footer>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore.js"></script>
-    <script src="scripts/d3.v3.min.js" charset="utf-8"></script>
-    <script src="scripts/topojson.v1.min.js"></script>
-    <script src="scripts/app.js">
-    </script>
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
   </body>
 </html>
