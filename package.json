@@ -1,6 +1,6 @@
 {
   "name": "refugee-data-viz-project",
-  "homepage": "http://cyrus-shahrivar.github.io/RefugeeDataVizApp/",
+  "homepage": "https://cyrus-shahrivar.github.io/RefugeeDataVizApp/",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
