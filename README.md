@@ -32,6 +32,8 @@ Run `npm run deploy`. The package.json deploy and pre-deploy scripts utilize the
 - [ ] Add tutorial mode with tooltips / more interactivity
 - [ ] Add social share functionality / icons
 - [ ] Add continuous integration
+- [ ] Possible Performance Improvements
+  - [ ] Migrate data files to be served
 
 ## Why Highcharts instead of original D3 Implementation?
 The original version of this applciation was written in D3.js in 2015 and 2016 and the version of D3 used at the time was version 3.0. The current version of D3.js as of this writing (2021) is version 7.0. Many things have changed in the years since. React has exploded as a preferred UI library for frontend development, which has allowed everyone to write more readable, more modular code. In keeping with moving away from managing DOM changes directly as is preferred in the React ecosystem, I chose to leverage Highcharts instead of D3.js. Highchart is a highly used data visualization library with React that abstracts any direct DOM manipulation away from my code. In addition, the sheer amount of micromanagement of D3 code makes it difficult to maintain on an ongoing basis. Highcharts allows me to write understandable, manageable code where I don't have worry as much in keeping the project maintained. I may not come back to this in several years, so I would like something that I don't have to untangle as much as the previous D3 implmenetation.
