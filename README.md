@@ -7,6 +7,11 @@
 <img src="./docs/images/desktop-screenshot.png" alt="Screenshot of The Refugee Data Visualizer Application at desktop size" width="650px" />
 
 ## Follow-On TODOs
+- [ ] Add to readme
+  - [ ] Purpose
+  - [ ] Features
+  - [ ] Approach
+  - [ ] Other?
 - [ ] Fix bugs with different same country / different naming
 - [ ] CSS markup/naming that makes sense
 - [ ] Add tests for components using RTL and regular JEST unit test where needed
