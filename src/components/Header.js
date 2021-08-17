@@ -1,4 +1,4 @@
-function Header(params) {
+function Header() {
   return (
     <header className="App-header">
       <h1 className="title">THE REFUGEE DATA VISUALIZER PROJECT</h1>
