@@ -2,10 +2,10 @@ import { useState } from "react"
 import { yearsSupported } from "../data/processed/dataFormats"
 
 function YearsList({ updateYearSelected }) {
-  const [selectedIndex, setselectedIndex] = useState(0)
+  const [selectedIndex, setSelectedIndex] = useState(0)
   const handleOnClick = (e, index) => {
     const year = +e.currentTarget.innerText
-    setselectedIndex(index)
+    setSelectedIndex(index)
     updateYearSelected(year)
   }
 
