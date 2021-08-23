@@ -5,6 +5,10 @@ import CountryListText from "./CountryListText"
 function CountriesList({ yearSelected, updateCountrySelected }) {
   const countriesByYear = countries[yearSelected]
 
+  /**
+   * TODO: This way of selecting which UI to display
+   *  is probably not ideal. Perhaps revisit.
+   */
   return (
     <div>
       <div className="countries-list--large-screen">
