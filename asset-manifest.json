@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/RefugeeDataVizApp/static/css/main.85839e84.chunk.css",
-    "main.js": "/RefugeeDataVizApp/static/js/main.9d6fc20a.chunk.js",
-    "main.js.map": "/RefugeeDataVizApp/static/js/main.9d6fc20a.chunk.js.map",
+    "main.js": "/RefugeeDataVizApp/static/js/main.23521500.chunk.js",
+    "main.js.map": "/RefugeeDataVizApp/static/js/main.23521500.chunk.js.map",
     "runtime-main.js": "/RefugeeDataVizApp/static/js/runtime-main.b883ef4d.js",
     "runtime-main.js.map": "/RefugeeDataVizApp/static/js/runtime-main.b883ef4d.js.map",
     "static/js/2.ba871783.chunk.js": "/RefugeeDataVizApp/static/js/2.ba871783.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b883ef4d.js",
     "static/js/2.ba871783.chunk.js",
     "static/css/main.85839e84.chunk.css",
-    "static/js/main.9d6fc20a.chunk.js"
+    "static/js/main.23521500.chunk.js"
   ]
 }
